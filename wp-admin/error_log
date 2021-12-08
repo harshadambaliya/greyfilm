@@ -1,0 +1,6 @@
+[01-Nov-2021 10:32:47 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[01-Nov-2021 13:38:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/greyfilmuser/public_html/wp-content/themes/wp-bootstrap-starter-child/functions.php on line 2
+[01-Nov-2021 13:38:51 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/greyfilmuser/public_html/wp-content/themes/wp-bootstrap-starter-child/functions.php on line 2
+[01-Nov-2021 13:40:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/greyfilmuser/public_html/wp-content/themes/wp-bootstrap-starter-child/functions.php on line 2
+[01-Nov-2021 13:40:51 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/greyfilmuser/public_html/wp-content/themes/wp-bootstrap-starter-child/functions.php on line 2
+[01-Nov-2021 13:42:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/greyfilmuser/public_html/wp-content/themes/wp-bootstrap-starter-child/functions.php on line 2
